@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.txtIP = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -39,6 +40,7 @@
             this.btnSend = new System.Windows.Forms.Button();
             this.btnSendFile = new System.Windows.Forms.Button();
             this.txtFilePath = new System.Windows.Forms.TextBox();
+            this.timerClient = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // label1
@@ -48,7 +50,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(53, 12);
             this.label1.TabIndex = 0;
-            this.label1.Text = "客户端IP";
+            this.label1.Text = "服务端IP";
             // 
             // txtIP
             // 
@@ -56,6 +58,7 @@
             this.txtIP.Name = "txtIP";
             this.txtIP.Size = new System.Drawing.Size(100, 21);
             this.txtIP.TabIndex = 2;
+            this.txtIP.Text = "192.168.1.102";
             // 
             // label3
             // 
@@ -72,6 +75,7 @@
             this.txtPort.Name = "txtPort";
             this.txtPort.Size = new System.Drawing.Size(100, 21);
             this.txtPort.TabIndex = 4;
+            this.txtPort.Text = "1234";
             // 
             // btnConnect
             // 
@@ -145,6 +149,10 @@
             this.txtFilePath.Size = new System.Drawing.Size(446, 21);
             this.txtFilePath.TabIndex = 11;
             // 
+            // timerClient
+            // 
+            this.timerClient.Interval = 1000;
+            // 
             // ChatClient
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -182,6 +190,7 @@
         private System.Windows.Forms.Button btnSend;
         private System.Windows.Forms.Button btnSendFile;
         private System.Windows.Forms.TextBox txtFilePath;
+        private System.Windows.Forms.Timer timerClient;
     }
 }
 
