@@ -1,0 +1,7 @@
+E:\01.Work\01.SOS\Chat\Server\bin\Debug\Server.exe
+E:\01.Work\01.SOS\Chat\Server\bin\Debug\Server.pdb
+E:\01.Work\01.SOS\Chat\Server\obj\Debug\Server.ChatServer.resources
+E:\01.Work\01.SOS\Chat\Server\obj\Debug\Server.Properties.Resources.resources
+E:\01.Work\01.SOS\Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\01.Work\01.SOS\Chat\Server\obj\Debug\Server.exe
+E:\01.Work\01.SOS\Chat\Server\obj\Debug\Server.pdb

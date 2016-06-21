@@ -1,0 +1,8 @@
+E:\01.Work\01.SOS\Chat\Client\bin\Debug\Client.exe
+E:\01.Work\01.SOS\Chat\Client\bin\Debug\Client.pdb
+E:\01.Work\01.SOS\Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\01.Work\01.SOS\Chat\Client\obj\Debug\Client.ChatClient.resources
+E:\01.Work\01.SOS\Chat\Client\obj\Debug\Client.Properties.Resources.resources
+E:\01.Work\01.SOS\Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\01.Work\01.SOS\Chat\Client\obj\Debug\Client.exe
+E:\01.Work\01.SOS\Chat\Client\obj\Debug\Client.pdb
